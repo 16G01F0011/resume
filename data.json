@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "photo":"profile.jpg",
+    "name":"rupa",
+    "email":"rupayadhav1996@gmail.com",
+    "phoneno":"9876543210",
+    "address":"Chittoor"
+},
+"career":{
+  "info":"Seeking challenging career in [your profession] Sector to get a position of responsibility using my profile"
+},
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET COLLEGE PUTTUR",
+    "data":["2016-2019","78%"]
+  },
+{
+  "course":"BSC",
+  "college":"VIJAYAM DEGREE COLLEGE CHITTOOR",
+  "data":["2013-2016","70%"]
+},
+{
+  "course":"MPC",
+  "college":"SRI VIGNAN JR COLLEGE CHITTOOR",
+  "data":["2011-2013","65%"]
+},
+{
+  "course":"SSC",
+  "college":"Z.P.HIGH SCHOOL PULLUR",
+  "data":["2010-1011","78%"]
+}
+]
+}
